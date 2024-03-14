@@ -20,3 +20,4 @@ double calcular_cosseno(Angulo angulo_radianos);
  calcular a tangente de um angulo
 */
 double calcular_tangente(Angulo angulo_radianos);
+//trabalho de pds

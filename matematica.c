@@ -20,4 +20,4 @@ double calcular_cosseno(Angulo angulo_radianos) {
 
 double calcular_tangente(Angulo angulo_radianos) {
     return tan(angulo_radianos.x);
-}
+}//trabalho de pds
